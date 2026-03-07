@@ -42,7 +42,7 @@ admintmc@ssh.themoderncompany.in's password:
 Type the password below and press **Enter**:
 
 ```
-Tmc@9629.
+Ask me in call... Putting passwords here is not safe!!
 ```
 
 > ⚠️ **Important:** When you type the password, you won't see any letters or dots appearing on screen. That's completely normal — it's a security feature. Just type it and hit Enter.
