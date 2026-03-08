@@ -24,7 +24,7 @@ You'll see a dark window with some white text. That's the terminal. Don't be sca
 In the terminal, type the following command **exactly** and press **Enter**:
 
 ```
-ssh admintmc@ssh.themoderncompany.in -p 2222
+ssh vignesh@ssh.themoderncompany.in -p 2222
 ```
 
 > 💡 `ssh` is just a way to securely connect to another computer over the internet — like a phone call, but for computers.
