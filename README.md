@@ -36,7 +36,7 @@ ssh admintmc@ssh.themoderncompany.in -p 2222
 After you press Enter, it will ask you:
 
 ```
-admintmc@ssh.themoderncompany.in's password:
+vignesh@ssh.themoderncompany.in's password:
 ```
 
 Type the password below and press **Enter**:
