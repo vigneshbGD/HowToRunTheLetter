@@ -3,7 +3,7 @@
 
 ---
 
-Don't worry. You don't need to know anything about computers for this.
+Don't worry. You don't need to know anything about linux for this.
 Just follow the steps below **one by one**, exactly as written.
 I promise it's easier than it looks. 😊
 
